@@ -1,9 +1,5 @@
 # Birthdate
 
-A kata for a birthdate value type.
-
-The `main` branch contains a nearly empty module and tests.
-
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
